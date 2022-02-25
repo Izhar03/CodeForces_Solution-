@@ -1,3 +1,5 @@
 # CodeForces_Solution-
 These are my CodeForces Submissions 
-Questions Submitted : 4A , 791A , 977A , 282A, 200B, 50A
+
+January 2022 : 4A 
+February 2022 : 791A , 977A , 282A, 200B, 50A
