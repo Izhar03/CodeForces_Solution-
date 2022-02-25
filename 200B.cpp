@@ -4,13 +4,16 @@ using namespace std;
 
 int main()
 {
-int A,B;
-cin>>A;
-cin>>B;
-
-int area=A*B;
-int da=2;
-
-cout<<area/da;
+int N,x;
+float sum=0;
+cin>>N;
+  
+  for(int i=0;i<N;i++){
+    cin>>x;
+    sum=sum+x;
+  }
+  
+  cout<<(sum/N);
+  
 
 }
